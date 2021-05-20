@@ -7,7 +7,7 @@ terraform {
     hostname = "app.terraform.io"
     organization = "AARTI-training"
     workspaces {
-      name = " hashicat-gcp"
+      name = "hashicat-gcp"
     }
   }
 }
