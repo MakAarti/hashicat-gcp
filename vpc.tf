@@ -5,7 +5,7 @@ module "network" {
   version = "3.2.2"
 
   network_name = "gaurav-network"
-  project_id = "var.project"
+  project_id = "p-dj9cvpdk2hejuttxgej9vsvb5uw3"
   subnets = [
   {
     subnet_name   = "gaurav-subnet"
